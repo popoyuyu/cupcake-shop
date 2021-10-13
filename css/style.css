@@ -1,0 +1,9 @@
+h1 {
+  font-style: oblique;
+  background-color: aqua;
+}
+
+p.flashy {
+  color: red;
+  font-style: italic;
+}
