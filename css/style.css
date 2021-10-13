@@ -7,3 +7,18 @@ p.flashy {
   color: red;
   font-style: italic;
 }
+
+h2.flashy {
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a.flashy {
+ text-decoration: none;
+ color: purple; 
+}
+
+p.best {
+  color: teal;
+  background-color: black;
+}
